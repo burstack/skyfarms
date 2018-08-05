@@ -17,7 +17,7 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 
 ## Getting Started
 
-+Contact our team at SkyFarms.io, leave us your contact and start create a project
++Contact our team at http://www.skyfarms.io, leave us your contact and start create a project
 
 +Post us your wireframe and wait for our thumbs up to proceed, we´ll grant you access, as a contributer, to our GIT repository
 
@@ -25,7 +25,7 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 
 ## Installing
 
-+Import Repository, create a local branch , Code away
++Import Repository, create a local branch , code away
 
 ## Tests
 
