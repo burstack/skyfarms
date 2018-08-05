@@ -1,7 +1,9 @@
 ## skyfarms
-SkyFarms Theme Repository for contribution purposes. Reda more under skyfarms.io
+
+SkyFarms Theme Repository for contribution purposes. Read more under http://www.skyfarms.io
 
 ## Initiative Overview
+
 SkyFarms.io is an open-source AgriHub designed to solve lack of access to local, sustainable food by connecting farm-to-fork in every community. 
 For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to get started, please visit this URL.
 
@@ -15,9 +17,9 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 
 ## Getting Started
 
-+Contact our team at SkyFarms.io, for a brief introduction, leave us your contact and get your login
++Contact our team at SkyFarms.io, leave us your contact and start create a project
 
-+Create a project, post us your wireframe and wait for our thumbs up to proceed
++Post us your wireframe and wait for our thumbs up to proceed, we´ll grant you access, as a contributer, to our GIT repository
 
 +Setup your development environment
 
@@ -26,18 +28,23 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 +Import Repository, create a local branch , Code away
 
 ## Tests
-Testing and Debugging has to be done on forked branches before last push to master repository
+
+Testing and Debugging has to be done on your local branch before push, to your added branch at the GIT repository
 
 ## Deployment
+
 Deployment to the live server will be executed by one of out team members
 
 ## Contributing Guidelines
+
 Please read CONTRIBUTING.md for details on how to contribute and the process for submitting pull requests to us.
 
 ## Code of Conduct
+
 Please read CODE_OF_CONDUCT.md for details on our code of conduct and the process for submitting pull requests to us.
 
 ## License
+
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 
