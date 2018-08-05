@@ -37,7 +37,7 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 
 ## Deployment
 
-Deployment to the live server will be executed by one of out team members
+> Deployment to the live server will be executed by one of out team members
 
 ***
 ## Contributing Guidelines
