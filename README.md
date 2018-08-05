@@ -23,10 +23,10 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 
 ## Installing
 
-+Import Repository, Code away
++Import Repository, create a local branch , Code away
 
 ## Tests
-Testing and Debugging has to be done before last push to repository
+Testing and Debugging has to be done on forked branches before last push to master repository
 
 ## Deployment
 Deployment to the live server will be executed by one of out team members
