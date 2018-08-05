@@ -2,11 +2,12 @@
 ***
 
 SkyFarms Theme Repository for contribution purposes 
-**Do you wanna be a part of SkyFarms open-source project?** 
+> **Do you wanna be a part of SkyFarms open-source project?** 
 
 ## Initiative Overview
 
-SkyFarms.io is an open-source AgriHub designed to solve lack of access to local, sustainable food by connecting farm-to-fork in every community. 
+SkyFarms.io is an open-source AgriHub designed to solve lack of access to local, sustainable food by connecting farm-to-fork in every community.
+
 For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to get started, please visit [skyfarms](skyfarms.io)
 
 ## Motivation
