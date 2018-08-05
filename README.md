@@ -2,7 +2,7 @@
 ***
 
 SkyFarms Theme Repository for contribution purposes 
-Do you wanna be a part of SkyFarms open-source project? 
+**Do you wanna be a part of SkyFarms open-source project?** 
 
 ## Initiative Overview
 
@@ -11,11 +11,11 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 
 ## Motivation
 
-+PRIMARY VALUATION: Repurposing empty, unused space for use of farming through "Match-Search" collaborative platform (engaging hosts, volunteers and commerce).  
+**+PRIMARY VALUATION**: Repurposing empty, unused space for use of farming through "Match-Search" collaborative platform (engaging hosts, volunteers and commerce).  
 
-+SECONDARY VALUATION: Maximizing sustainable harvest yield and P2P distribution channels for farmers. 
+**+SECONDARY VALUATION**: Maximizing sustainable harvest yield and P2P distribution channels for farmers. 
 
-+TERTIARY VALUATION: Access To agricultural information and technology community which focuses on growing sustainable farm-to-fork food system through a replicable template for distributing local food democracies.
+**+TERTIARY VALUATION**: Access To agricultural information and technology community which focuses on growing sustainable farm-to-fork food system through a replicable template for distributing local food democracies.
 
 ***
 ## Getting Started
