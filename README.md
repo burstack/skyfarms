@@ -21,19 +21,19 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 ***
 ## Getting Started
 
-+Contact our team at [skyfarms](skyfarms.io), leave us your contact and start create a project
+> +Contact our team at [skyfarms](skyfarms.io), leave us your contact and start create a project
 
-+Post us your wireframe and wait for our thumbs up to proceed, we´ll grant you access, as a contributer, to our GIT repository
+> +Post us your wireframe and wait for our thumbs up to proceed, we´ll grant you access, as a contributer, to our GIT repository
 
-+Setup your development environment
+> +Setup your development environment
 
 ## Installing
 
-+Import Repository, create a local branch , code away
+> +Import Repository, create a local branch , code away
 
 ## Tests
 
-Testing and Debugging has to be done on your local branch before push, to your added branch at the GIT repository
+> Testing and Debugging has to be done on your local branch before push, to your added branch at the GIT repository
 
 ## Deployment
 
