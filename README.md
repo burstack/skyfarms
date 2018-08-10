@@ -21,7 +21,7 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 ***
 ## Getting Started
 
-> +Contact our team at [skyfarms](skyfarms.io), leave us your contact and start create a project
+> +Contact our team at [skyfarms](skyfarms.io/host-volunteer/), leave us your contact and start create a project
 
 > +Post us your wireframe and wait for our thumbs up to proceed, we´ll grant you access, as a contributer, to our GIT repository
 
@@ -33,7 +33,7 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 
 ## Tests
 
-> Testing and Debugging has to be done on your local branch before push, to your added branch at the GIT repository
+> Testing and Debugging has to be done on your local branch before push, to developer branch at the GIT repository
 
 ## Deployment
 
