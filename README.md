@@ -8,7 +8,7 @@ SkyFarms Theme Repository for contribution purposes
 
 SkyFarms.io is an open-source AgriHub designed to solve lack of access to local, sustainable food by connecting farm-to-fork in every community.
 
-For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to get started, please visit [skyfarms](skyfarms.io)
+For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to get started, please visit [SkyFarms](http://skyfarms.io/)
 
 ## Motivation
 
@@ -21,7 +21,10 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 ***
 ## Getting Started
 
-> +Contact our team at [skyfarms](skyfarms.io), [a link](http://skyfarms.io/host-volunteer/), leave us your contact and start create a project
+> +Contact our team at [SkyFarms](http://skyfarms.io/host-volunteer/), 
+[Mail SkyFarms](href="mailto:info@skyfarms.io?Subject=SkyFarms Contribution"),
+
+leave us your contact and start create a project
 
 > +Post us your wireframe and wait for our thumbs up to proceed, we´ll grant you access, as a contributer, to our GIT repository
 
