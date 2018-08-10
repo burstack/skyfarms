@@ -21,12 +21,12 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 ***
 ## Getting Started
 
-> +Contact our team at [SkyFarms](http://skyfarms.io/host-volunteer/), 
-[Mail SkyFarms](href="mailto:info@skyfarms.io?Subject=SkyFarms Contribution"),
-<li><a href="mailto:youraddress@url.com">Email Us</a></li>
-leave us your contact and start create a project
+> +Read about collaboration here; [SkyFarms](http://skyfarms.io/host-volunteer/)
 
-> +Post us your wireframe and wait for our thumbs up to proceed, we´ll grant you access, as a contributer, to our GIT repository
+> +Contact our team at <li><a href="mailto:info@skyfarms.io?Subject=SkyFarms Contribution">Email</a></li>
+leave us your contact and start mockup your project
+
+> +Mail us your wireframe and wait for our thumbs up to proceed, we´ll grant you with access, as a contributer, to our GIT repository
 
 > +Setup your development environment
 
