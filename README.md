@@ -1,5 +1,5 @@
 # SkyFarms Theme Development
-# *NOTE: we are soon launching our repository!!*
+## *NOTE: we are soon launching our repository!!*
 ***
 
 SkyFarms Theme Repository for contribution purposes 
@@ -24,7 +24,7 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 
 > +Read about collaboration here; [SkyFarms](http://skyfarms.io/host-volunteer/)
 
-> +Contact our team; <a href="mailto:info@skyfarms.io?Subject=SkyFarms Contribution">Email</a>, leave us your contact and start mockup your project
+> +Contact our team here; <a href="mailto:info@skyfarms.io?Subject=SkyFarms Contribution">eMail Us</a>, leave us your contact and start mockup your project
 
 > +Mail us your wireframe and wait for our thumbs up to proceed, we´ll grant you with access, as a contributer, to our GIT repository
 
@@ -36,7 +36,7 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 
 ## Tests
 
-> Testing and Debugging has to be done on your local branch before push, to developer branch at the GIT repository
+> Testing and Debugging has to be done on your local branch, before push to developer branch at the GIT repository
 
 ## Deployment
 
