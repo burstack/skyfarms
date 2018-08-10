@@ -23,7 +23,7 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 
 > +Contact our team at [SkyFarms](http://skyfarms.io/host-volunteer/), 
 [Mail SkyFarms](href="mailto:info@skyfarms.io?Subject=SkyFarms Contribution"),
-
+<li><a href="mailto:youraddress@url.com">Email Us</a></li>
 leave us your contact and start create a project
 
 > +Post us your wireframe and wait for our thumbs up to proceed, we´ll grant you access, as a contributer, to our GIT repository
