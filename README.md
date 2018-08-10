@@ -24,8 +24,7 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 
 > +Read about collaboration here; [SkyFarms](http://skyfarms.io/host-volunteer/)
 
-> +Contact our team at <li><a href="mailto:info@skyfarms.io?Subject=SkyFarms Contribution">Email</a></li>
-leave us your contact and start mockup your project
+> +Contact our team; <a href="mailto:info@skyfarms.io?Subject=SkyFarms Contribution">Email</a>, leave us your contact and start mockup your project
 
 > +Mail us your wireframe and wait for our thumbs up to proceed, we´ll grant you with access, as a contributer, to our GIT repository
 
