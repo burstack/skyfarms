@@ -1,5 +1,5 @@
 # SkyFarms Theme Development
-# NOTE: we are soon launching our repository!!
+# *NOTE: we are soon launching our repository!!*
 ***
 
 SkyFarms Theme Repository for contribution purposes 
