@@ -45,11 +45,7 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 ***
 ## Contributing Guidelines
 
-Please read CONTRIBUTING.md for details on how to contribute and the process for submitting pull requests to us.
-
-## Code of Conduct
-
-Please read CODE_OF_CONDUCT.md for details on our code of conduct and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/SkyFarms/skyfarms/blob/master/CODE_OF_CONDUCT.md) for details on how to contribute and the process for submitting pull requests to us.
 
 ## License
 
