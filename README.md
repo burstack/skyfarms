@@ -22,7 +22,7 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 ***
 ## Getting Started
 
-> +Read about collaboration here; [SkyFarms](http://skyfarms.io/host-volunteer/)
+> +Read about collaboration here; [SkyFarms](http://skyfarms.io/challenges/)
 
 > +Contact our team here; <a href="mailto:info@skyfarms.io?Subject=SkyFarms Contribution">eMail Us</a>, leave us your contact and start mockup your project
 
