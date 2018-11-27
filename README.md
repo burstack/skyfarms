@@ -18,6 +18,9 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 **+TERTIARY VALUATION**: Access To agricultural information and technology community which focuses on growing sustainable farm-to-fork food system through a replicable template for distributing local food democracies.
 
 ***
+***
+***
+***
 
 ## Getting Started
 
