@@ -41,6 +41,10 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 
 > +Import Repository & code away!
 
+## Scrum
+
+> +We use [TRELLO](https://trello.com)
+
 ## Tests
 
 > +Testing and Debugging has to be done on your local machine and after passing test, push to the GIT repository
@@ -49,12 +53,11 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 
 > +Deployment to the live server will be executed by one of out team members
 
-## Channels
+## FAQ
 
-> +Got stuck? Need support? Why not trying to reach out on SkyFarms social channels for developers.
+> +Got stuck? Need support? Or just wanna hang out and have fun, check out SkyFarms social channels for developers.
 
-> +[SLACK](https://skyfarms.slack.com) We are also on [TRELLO](https://trello.com)
-***
+> Join us here, [SLACK](https://skyfarms.slack.com)
 
 ## Contributing Guidelines
 
