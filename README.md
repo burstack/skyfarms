@@ -18,6 +18,7 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 **+TERTIARY VALUATION**: Access To agricultural information and technology community which focuses on growing sustainable farm-to-fork food system through a replicable template for distributing local food democracies.
 
 ***
+
 ## Getting Started
 
 > +Read about collaboration here; [SkyFarms](http://skyfarms.io/challenges/)
@@ -36,13 +37,14 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 
 ## Tests
 
-> Testing and Debugging has to be done on your local machine and after passing test, push to the GIT repository
+> +Testing and Debugging has to be done on your local machine and after passing test, push to the GIT repository
 
 ## Deployment
 
-> Deployment to the live server will be executed by one of out team members
+> +Deployment to the live server will be executed by one of out team members
 
 ***
+
 ## Contributing Guidelines
 
 Please read [CONTRIBUTING.md](https://github.com/SkyFarms/skyfarms/blob/master/CODE_OF_CONDUCT.md) for details on how to contribute and the process for submitting pull requests to us.
