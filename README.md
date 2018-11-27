@@ -18,15 +18,14 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 **+TERTIARY VALUATION**: Access To agricultural information and technology community which focuses on growing sustainable farm-to-fork food system through a replicable template for distributing local food democracies.
 
 ***
-***
-***
-***
 
 ## Getting Started
 
-> +Read about collaboration here; [SkyFarms](http://skyfarms.io/challenges/)
+> +Read about collaboration and then find a challenge here; [SkyFarms](http://skyfarms.io/challenges/)
 
 > +If you found a challenge, use the 'Accept Challenge' link and mail us your contact and we´ll bring you on board.
+
+> +Now we are doing business, lets get introduced, get some questions and answers done and agree on a reward. 
 
 > +Or if you have another idea about contribute code for SkyFarms, contact our team here; <a href="mailto:info@skyfarms.io?Subject=SkyFarms GitHub Contribution">eMail Us</a>, leave us your contact and we´ll be thrilled to hear your vision!
 
@@ -35,6 +34,10 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 ## Installing
 
 > +Setup your development environment
+
+> +Install WordPress and a new database
+
+> +If needed; Install dependencies (contact team for your requests)
 
 > +Import Repository & code away!
 
