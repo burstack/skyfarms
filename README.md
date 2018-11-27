@@ -49,6 +49,11 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 
 > +Deployment to the live server will be executed by one of out team members
 
+## Channels
+
+> +Got stuck? Need support? Why not trying to reach out on SkyFarms social channels for developers.
+
+> +[SLACK](https://skyfarms.slack.com) We are also on [TRELLO](https://trello.com)
 ***
 
 ## Contributing Guidelines
