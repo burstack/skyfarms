@@ -1,6 +1,4 @@
 # SkyFarms Theme Development
-## *NOTE: we are soon launching our repository!!*
-***
 
 SkyFarms Theme Repository for contribution purposes 
 > **Do you wanna be a part of SkyFarms open-source project?** 
@@ -24,19 +22,21 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 
 > +Read about collaboration here; [SkyFarms](http://skyfarms.io/challenges/)
 
-> +Contact our team here; <a href="mailto:info@skyfarms.io?Subject=SkyFarms Contribution">eMail Us</a>, leave us your contact and start mockup your project
+> +If you found a challenge, use the 'Accept Challenge' link and mail us your contact and we´ll bring you on board.
 
-> +Mail us your wireframe and wait for our thumbs up to proceed, we´ll grant you with access, as a contributer, to our GIT repository
+> +Or if you have another idea about contribute code for SkyFarms, contact our team here; <a href="mailto:info@skyfarms.io?Subject=SkyFarms GitHub Contribution">eMail Us</a>, leave us your contact and we´ll be thrilled to hear your vision!
 
-> +Setup your development environment
+> +We do appreciate if you send us a wireframe or mockup before you proceed with coding, just to get our thumbs up and we´ll grant you with access, as a contributer, to our GIT repository.
 
 ## Installing
 
-> +Import Repository, create a local branch , code away
+> +Setup your development environment
+
+> +Import Repository & code away!
 
 ## Tests
 
-> Testing and Debugging has to be done on your local branch, before push to developer branch at the GIT repository
+> Testing and Debugging has to be done on your local machine and after passing test, push to the GIT repository
 
 ## Deployment
 
