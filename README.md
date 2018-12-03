@@ -23,13 +23,23 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 
 > +Read about collaboration and then find a challenge here; [SkyFarms](http://skyfarms.io/challenges/)
 
-> +If you found a challenge, use the 'Accept Challenge' link and mail us your contact and we´ll bring you on board.
+> +If you found a challenge, use the 'Accept Challenge' link and mail your contact and you on board. Easy like that!
 
-> +Now we are doing business, lets get introduced, get some questions and answers done and agree on a reward. 
+> +Now we are doing business, introduce yourself to the team, if you have some questions, the team will provide answers and lastly, let´s make an agreement on a reward. You´ll find the team on Slack.
 
-> +Or if you have another idea about contribute code for SkyFarms, contact our team here; <a href="mailto:info@skyfarms.io?Subject=SkyFarms GitHub Contribution">eMail Us</a>, leave us your contact and we´ll be thrilled to hear your vision!
+> +Or if you have another idea about contribute code for SkyFarms, contact the team here; <a href="mailto:info@skyfarms.io?Subject=SkyFarms GitHub Contribution">Send Mail to admin here</a>, leave your contact and we´ll be thrilled to hear your vision!
 
-> +We do appreciate if you send us a wireframe or mockup before you proceed with coding, just to get our thumbs up and we´ll grant you with access, as a contributer, to our GIT repository.
+> +All information about procedeurs, relevant theme files and our code of conduct is presented here on GitHub. 
+
+> +All direct development needs is listed as challenges, theese are the ones that has money rewards! We would like to also mention, remember that you can reach out, and find or create your team, on SkyFarms Slack channels. Read more under [SkyFarms Open Source page](http://skyfarms.io/challenges/)
+
+> +Some project planning, team work, think tanks and contributions talk is on our Slack channels but we have also our SkyFarms Facebook group. You´ll find more team members at [SkyFarms Slack](https://skyfarms.slack.com/).
+
+> +Team planning, work management, task board and bigger serious team work, SkyFarms admin stronlgy suggest the use of Trello. Sign up here [Trello](https://trello.com). Trello Admin will add you to SkyFarms board simply by a mail to admin with your Trello info.
+
+> +It´s appreciated if you send in a wireframe or mockup, to the team, before you proceed with coding, just to get the thumbs up and be granted with access to SkyFarms GIT repository.
+
+> +SkyFarms is an open source community! It means you have the freedome to take on any of our challenges. But! You can, also contribute, code against hunger, you are then a member in our growing community. Why not do both challenges and contributions? Take part in new projects, suggest your own project. Start a team for your project.. We are doing the grassroots movement! 
 
 ## Installing
 
