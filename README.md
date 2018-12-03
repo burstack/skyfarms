@@ -21,17 +21,17 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 
 ## Getting Started
 
-> +Read about collaboration and then find a challenge here; [SkyFarms](http://skyfarms.io/challenges/)
-
-> +If you found a challenge, use the 'Accept Challenge' link and mail your contact and you on board. Easy like that!
-
-> +Now we are doing business, introduce yourself to the team, if you have some questions, the team will provide answers and lastly, let´s make an agreement on a reward. You´ll find the team on Slack.
-
-> +Or if you have another idea about contribute code for SkyFarms, contact the team here; <a href="mailto:info@skyfarms.io?Subject=SkyFarms GitHub Contribution">Send Mail to admin here</a>, leave your contact and we´ll be thrilled to hear your vision!
-
 > +All information about procedeurs, relevant theme files and our code of conduct is presented here on GitHub. 
 
 > +All direct development needs is listed as challenges, theese are the ones that has money rewards! We would like to also mention, remember that you can reach out, and find or create your team, on SkyFarms Slack channels. Read more under [SkyFarms Open Source page](http://skyfarms.io/challenges/)
+
+> +Read all the guidelines here on GitHub and then find a challenge here; [SkyFarms Open Source page](http://skyfarms.io/challenges/)
+
+> +If you found a challenge, use the 'Accept Challenge' link and mail your contact and you on board. Easy like that!
+
+> +Now we are doing business, introduce yourself to the team, you´ll find the team on Slack. If you have some questions, the team will provide answers and lastly, let´s make an agreement on a reward. 
+
+> +Or if you have another idea about contribute code for SkyFarms, contact the team here; <a href="mailto:info@skyfarms.io?Subject=SkyFarms GitHub Contribution">Send Mail to admin here</a>, leave your contact and we´ll be thrilled to hear your vision!
 
 > +Some project planning, team work, think tanks and contributions talk is on our Slack channels but we have also our SkyFarms Facebook group. You´ll find more team members at [SkyFarms Slack](https://skyfarms.slack.com/).
 
@@ -51,17 +51,26 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 
 > +Import Repository & code away!
 
+## Heads up!
+
+> +SkyFarms Admin suggests the development of lighter work, being constructed and sent in as a plugin.
+(also, easier for SkyFarms, to compliment your work on our channels and to bring back reputation and value to you)
+
+> +The development of bigger work will be directly done inside the theme folders.
+
 ## Scrum
 
 > +We use [TRELLO](https://trello.com)
 
 ## Tests
 
-> +Testing and Debugging has to be done on your local machine and after passing test, push to the GIT repository
+> +Testing and Debugging is to be done on your local machine and after passing test, push to the GIT repository.
+
+> +Plugins shall be sent directly to SkyFarms Admin.
 
 ## Deployment
 
-> +Deployment to the live server will be executed by one of out team members
+> +Deployment to the live server will be executed by one of out team members.
 
 ## FAQ
 
