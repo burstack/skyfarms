@@ -39,7 +39,7 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 
 > +It´s appreciated if you send in a wireframe or mockup, to the team, before you proceed with coding, just to get the thumbs up and be granted with access to SkyFarms GIT repository.
 
-> +SkyFarms is an open source community! It means you have the freedome to take on any of our challenges. But! You can, also contribute, code against hunger, you are then a member in our growing community. Why not do both challenges and contributions? Take part in new projects, suggest your own project. Start a team for your project.. We are doing the grassroots movement! 
+> +SkyFarms is an open source community! It means you have the freedom to take on any of our challenges. But! You can also contribute your code for crops, you are then a member in our growing community. Why not do both challenges and contributions? Take part in new projects, suggest your own project. Start a team for your project.. We are doing the grassroots movement! 
 
 ## Installing
 
