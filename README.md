@@ -72,6 +72,10 @@ For a complete synopsis of OUR story, WHAT we do, WHY this is useful, and HOW to
 
 > +Deployment to the live server will be executed by one of out team members.
 
+## Rewards
+
+> +How do I get the money? Our award fund are based off of donations and merchandise sales. They are fixed for now but change and grow in the future. If we add your code into ours, you are a winner, and will be informed immediately.. and love and fame shall follow. You can receive the fund via PayPal, or Zell. 
+
 ## FAQ
 
 > +Got stuck? Need support? Or just wanna hang out and have fun, check out SkyFarms social channels for developers.
